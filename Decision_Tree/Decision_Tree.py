@@ -5,7 +5,7 @@ from sklearn.metrics import mean_squared_error # Calcular o erro médio
 from collections import Counter # Contagem de repetição de elementos
 
 """
-Um algoritimo de Decisio Tree e outro de Random Forest, ainda inacabado.
+Um algoritimo de Decision Tree e outro de Random Forest, ainda inacabado.
 Ambas possuem uma váriavel chamada mode, que serve para escolher entre:
 - 1 para Regressão.
 - 0 para Classificação.
